@@ -70,8 +70,8 @@ Skills
 - DELETE /api/skills/:id → Delete skill
 
 🌐 Full-Stack Project Links
-- Frontend Repo → skill-swap-hub
-- Backend Repo → skill-swap-hub-backend
+- Frontend Repo → 
+- Backend Repo → https://github.com/roshankumar8368/skill-swap-hub-backend
 
 📌 Future Improvements
 - Real-time chat integration
