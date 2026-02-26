@@ -70,7 +70,7 @@ Skills
 - DELETE /api/skills/:id → Delete skill
 
 🌐 Full-Stack Project Links
-- Frontend Repo → 
+- Frontend Repo → https://github.com/roshankumar8368/skill-swap-hub
 - Backend Repo → https://github.com/roshankumar8368/skill-swap-hub-backend
 
 📌 Future Improvements
